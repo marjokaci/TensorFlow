@@ -1,9 +1,3 @@
-
-999999
-
-
-#gitchange
-
 # Linear Regression Using Tensorflow
 import numpy as np
 import tensorflow as tf
